@@ -1,6 +1,6 @@
-# Block-Youtube-Ads
+# Youtube without ads for free?
 
-youtube or adtube?! youtube became unwatchable for me because of ads, so i found some free ways for different environments!  hope it helps
+youtube or adtube?! youtube became unwatchable for me because of ads, so i found some free ways to block and skip yt ads for different environments!  hope it helps
 
 For "Android" 
 1) youtube revanced + microG
@@ -25,3 +25,4 @@ For "Windows - Linux - MacOs"
 For "IOS"
 1) Yattee
 2) Youtube++
+
